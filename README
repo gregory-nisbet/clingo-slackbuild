@@ -1,0 +1,11 @@
+clingo (A grounder and solver for logic programs)
+
+Clingo is part of the Potassco project for Answer Set Programming 
+(ASP). ASP offers a simple and powerful modeling language to describe
+combinatorial problems as logic programs. The clingo system then
+takes such a logic program and computes answer sets representing
+solutions to the given problem. To get an idea, check our Getting
+Started page (https://potassco.org/doc/start/) and the online version
+of clingo (https://potassco.org/clingo/run/).
+
+https://potassco.org/clingo
