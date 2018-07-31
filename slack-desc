@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|' on
+# the right side marks the last column you can put a character in.  You must make
+# exactly 11 lines for the formatting to be correct.  It's also customary to
+# leave one space after the ':'.
+
+      |-----handy-ruler------------------------------------------------------|
+clingo: clingo (A grounder and solver for logic programs)
+clingo:
+clingo: Clingo is part of the Potassco project for Answer Set Programming 
+clingo: (ASP). ASP offers a simple and powerful modeling language to describe
+clingo: combinatorial problems as logic programs. The clingo system then
+clingo: takes such a logic program and computes answer sets representing
+clingo: solutions to the given problem. To get an idea, check our Getting
+clingo: Started page (https://potassco.org/doc/start/) and the online version
+clingo: of clingo (https://potassco.org/clingo/run/).
+clingo:
+clingo: https://potassco.org/clingo
